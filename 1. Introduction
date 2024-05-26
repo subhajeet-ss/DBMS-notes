@@ -1,0 +1,48 @@
+Definition:-
+
+The database is a collection of inter-related information which is utilized to recover, embed and erase the information proficiently. 
+It is utilized to organize the information in the frame of a table, construction, sees, and reports, etc. Utilizing the database, one can effectively recover, embed, and erase the data.
+
+Database Administration System
+Database administration framework is a computer program which is utilized to oversee the database. For case: MySQL, Prophet, etc are a exceptionally well known commercial database which is utilized in distinctive applications.
+DBMS gives an interface to perform different operations like database creation, putting away information in it, overhauling information, making a table in the database and a parcel more.
+It gives security and security to the database. In the case of numerous clients, it too keeps up information consistency.
+
+DBMS permits clients the taking after tasks:
+
+Data Definition: It is utilized for creation, alteration, and evacuation of definition that characterizes the organization of information in the database.
+Data Updation: It is utilized for the inclusion, adjustment, and erasure of the genuine information in the database.
+Data Recovery: It is utilized to recover the information from the database which can be utilized by applications for different purposes.
+User Organization: It is utilized for enrolling and checking clients, keep up information judgment, upholding information security, managing with concurrency control, observing execution and recouping data debased by startling disappointment.
+
+Characteristics of DBMS:
+
+It employs a computerized store set up on a server to store and oversee the information.
+It can give a clear and consistent see of the handle that controls data.
+It contains programed reinforcement and recuperation procedures.
+It contains Corrosive properties which keep up information in a solid state in case of failure.
+It can diminish the complex relationship between data. 
+It is utilized to back control and handling of data. 
+It is utilized to give security of data. 
+It can see the database from distinctive perspectives concurring to the prerequisites of the client.
+
+Advantages of DBMS:
+
+Controls database repetition: It can control information repetition since it stores all the information in one single database record and that recorded information is put in the database.
+Data sharing: In DBMS, the authorized clients of an organization can share the information among different users.
+Easy Maintenaince: It can be effectively viable due to the centralized nature of the database system.
+Reduce time: It diminishes advancement time and support need.
+Backup: It gives reinforcement and recuperation subsystems which make programed reinforcement of information from equipment and computer program disappointments and reestablishes the information if required. 
+Multiple client interface: It gives diverse sorts of client interfacing like graphical client interfacing, application program interfacing.
+
+Drawbacks of DBMS
+Cost of Equipment and Computer program: It requires a tall speed of information processor and huge memory measure to run DBMS software.
+Size: It involves an expansive space of disks and huge memory to run them efficiently.
+Complexity: Database framework makes extra complexity and requirements.
+Higher impact of failure: Failure is highly impacted the database because in most of the organization, all the data stored in a single database and if the database is damaged due to electric failure or database corruption then the data may be lost forever.
+
+Different sorts of DBMS
+Relational DBMS (RDBMS): RDBMS stores information in tables with lines and columns and employs SQL (Structured Query Language) to oversee the data.
+OODBMS stores information as objects and can be manipulated by utilizing useful expressions.
+NoSQL DBMS: A NoSQL DBMS stores information in non-relational information structures, such as key-value sets, document-based models, or chart models.
+
