@@ -1,0 +1,50 @@
+DBMS (Database Management System)
+A database management system is software used to store and retain information. For example Oracle, MySQL etc.; These are some popular DBMS tools. 
+
+The main role of DBMS
+
+DBMS provides interfaces for various operations such as creation, deletion, and update. 
+DBMS allows users to create data according to their needs. 
+The DBMS accepts requests from applications and provides certain information through transactions.
+A DBMS consists of groups of programs that run according to user instructions. It ensures the security of the database.
+
+Advantages of DBMS:-
+
+Controls Redundancy: Stores all data in a single database so data redundancy can be controlled. 
+Data Sharing: Authorized users can share information with multiple users. 
+Backup: Provides backup and recovery of subsystems. This recovery automatically creates data from system failure and restores data when necessary. 
+Multiple User Interfaces: It provides different types of user interfaces such as GUI and Application Programming Interfaces.
+
+Drawbacks of DBMS:-
+
+It uses a lot of disk space, has large memory and has high performance. 
+It requires a high-speed database and large memory to run DBMS software, so the cost is higher. 
+It creates additional complexity and requirements.
+
+RDBMS:-
+
+The term RDBMS is called "relational database management system". It is represented as a table consisting of rows and columns. 
+RDBMS is based on a relational model; It was suggested by E. F. Codd.
+
+A relational database consists of the following:
+
+Table
+Record/Tuple
+Field/Column Name/Attribute
+Instance
+Mode
+Key
+
+RDBMS Secures the data, a tabular DBMS that maintains its integrity, correctness, and consistency.
+
+
+Database Languages in DBMS:-
+
+DBMS has the necessary languages ​​and interfaces to express database queries and updates. 
+Database languages ​​can be used to read, store and manipulate data in databases.
+
+Types of Database Languages:-
+
+DDL
+
+DDL stands for Data Definition Language. It is used to define the database structure or schema. 
