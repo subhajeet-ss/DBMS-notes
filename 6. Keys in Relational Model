@@ -1,0 +1,38 @@
+Types of Keys in Relational Model
+
+Primary Key
+Foreign Key
+Composite Key
+Unique Key
+
+Primary Key:
+
+A column or columns is called primary key (PK) that uniquely identifies each row in the table.
+
+The primary key checks the integrity of the table. 
+Primary keys always contain unique information. 
+The key length cannot exceed 900 bytes.
+Primary keys cannot contain invalid values.
+Primary keys cannot be equal.
+A table can only have one primary key constraint.
+
+Foreign Key
+
+In a relational database, a foreign key is a field or column used to establish a relationship between two tables.
+A foreign key in one table used to point primary key in another table.
+It acts as a cross-reference between tables because it references the primary key of another table, thereby establishing a link between them.
+
+Composite Key
+
+A composite key is a combination of two or more rows in a table that can be used to identify each row in the table. 
+Uniqueness is guaranteed when rows are combined, but uniqueness is not recognized when used alone. 
+Sometimes more than one attributes are needed to uniquely identify an entity. 
+A primary key that is made by the combination of more than one attribute is known as a composite key.
+
+Unique Key
+
+A unique key is a set of one or more fields/rows in a table that is used to identify unique data in a database. 
+It is like a primary key but it can only accept one null value and cannot have equality. 
+Both unique keys and primary keys provide authentication to a unique party or set. 
+There is a particularly important consideration in the key limit.
+
