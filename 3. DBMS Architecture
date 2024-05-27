@@ -1,0 +1,41 @@
+The architecture of the DBMS influences its design. Numerous PCs, web servers, database servers, and other network-connected components are handled by the standard client/server design.
+Numerous PCs and a workstation connected by a network make up the client/server architecture.
+The way users connect to the database in order to complete their requests determines the architecture of the DBMS.
+
+Database architecture can be viewed as single-tier or multi-tier. But there are actually two types of database architectures: 2-tier architecture and 3-tier architecture.
+
+DBMS Architecture Types:-
+
+1 Tier Architecture
+2 Tier Architecture
+3 Tier Architecture
+
+1 Tier Architecture:
+
+In this architecture, the database is directed directly to the user. This means that users can sit directly into the DBMS and use it.
+All changes here will be made directly to the storage itself. It lacks basic tools for end users. 
+1-Tier architecture is used for native application development and programmers can directly communicate with data to achieve fast response.
+
+2 Tier Architecture:
+
+2-tier architecture is the same as client-server. In a two-tier architecture, clients can communicate directly with server-side databases. 
+APIs such as ODBC and JDBC are used for this interaction. 
+The user interface and application run on the client side.
+Server is responsible for providing server-side query processing and transaction management. 
+To communicate with the DBMS, the client application contacts the server side.
+
+3- Tier Architecture:
+
+3-tier architecture includes another layer of clients and servers. In this model, the client cannot communicate directly with the server. 
+The client application interacts with the application server, which continues with the database. 
+End users are not aware of the existence of data outside the application server. The database remains anonymous to other users outside the application. 
+For large web applications, 3-tier architecture is used.
+
+
+ 
+
+
+
+
+
+ 
