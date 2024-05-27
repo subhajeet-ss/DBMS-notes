@@ -1,0 +1,10 @@
+Anomalies:-
+Anomalies in relational structures refer to inconsistencies or inaccuracies that can occur when using relational information, especially when information is added, deleted, and modified. Different types of fashion can emerge in use and relationships.
+
+Data modification anomalies can be categorized into three types:
+
+Insertion Anomaly: Insertion Anomaly refers to when one cannot insert a new tuple into a relationship due to lack of data.
+
+Deletion Anomaly: The delete anomaly refers to the situation where the deletion of data results in the unintended loss of some other important data.
+
+Updatation Anomaly: The update anomaly is when an update of a single data value requires multiple rows of data to be updated.
