@@ -1,0 +1,37 @@
+ER Model
+
+ER model stands for Entity-Relationship Model. It is a very advanced data structure. 
+This model is used to define data and relationships for a system.
+It develops a conceptual design for the database. It also develops a very simple and easy to design view of data.
+In the ER model, the database structure is defined as a diagram called an entity-relationship diagram.
+
+Entity:
+
+An entity can be any object, category, person or place. In an ER diagram, entity can be represented as rectangles.
+
+Entity Set:-
+An Entity is an object of Entity Type and a set of all entities is called an entity set.
+
+Attribute:
+Attributes are used to describe the properties of an entity. Eclipse is used to represent an attribute.
+
+Relationship:
+Relationships are used to define relations between entities. Rhombus or diamond shape is used to represent relationships.
+
+Why use ER diagram:-
+
+1. The ER diagram is used to represent the E-R structure in data so that it is easier to transform data into relationships (tables). 
+2. ER diagrams are designed to be modeled in the real world, which makes them useful. 
+3. ER imaging requires no technical knowledge or hardware support. 
+4. The graphics are very easy to understand and easy to install even for new users. 
+5. Provides problem solving process for visual information. 
+
+Symbols used in the ER model:-
+
+Rectangle: Represents the area in the ER model.
+Lines: Lines represent locations and settings along with other types of relationships.
+Diamond: Diamonds represent Relationships among Entities.
+Lines: Lines represent attributes to entities and entity sets with other relationship types.
+Double Ellipse: Double Ellipses represent Multi-Valued Attributes.
+Double Rectangle: A double Rectangle represents a Weak Entity.
+
