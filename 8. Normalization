@@ -1,0 +1,8 @@
+Normalization:-
+ 
+Normalization is the process of organizing information in a database. 
+Normalization is used to reduce redundancy in a relationship or a group of relationships. 
+It is also used to remove unwanted features such as adding, modifying and deleting exceptions. 
+Normalization splits a large table into smaller tables and joins them using relationships. Regular records are used to reduce duplication in database tables.
+
+ 
