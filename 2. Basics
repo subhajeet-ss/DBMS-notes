@@ -48,3 +48,47 @@ Types of Database Languages:-
 DDL
 
 DDL stands for Data Definition Language. It is used to define the database structure or schema. 
+In the database, it is used to create schema, tables, indexes, constraints, etc.
+The skeleton of the file can be created using DDL statements.
+It is used to store metadata such as data definitions, number of tables and schemas, names, indexes, rows in each table, constraints, etc.
+
+Below are some functions in DDL:
+
+Create: Used to create objects in the database.
+Alter: Used to change the format of the file. 
+Drop: Used to delete items in the database. 
+Truncate: Used to delete all records in the table. 
+Rename: Used to rename items.
+
+DML
+
+DML stands for Data Manipulation Language. It is used to track and manage information in the database. It manages user requests.
+
+Here are some tasks that come under DML:
+
+Select: used to retrieve information from the database. 
+Add: Used to add data to the table. 
+Update: Used to update existing data in the table. 
+Delete: Used to delete all records in the table. 
+Merge: Perform the UPSERT operation, that is, the insertion or update operation. 
+Call: Used to call a query query or Java subroutine. 
+Lock table: manage concurrency.
+
+DCL
+
+DCL stands for Data Control Language. It is used to retain or store information.
+DCL execution is transactional. There are also rollback parameters.
+
+Some of the functions in DCL are:
+
+Grant: Used to allow users to access the database. 
+Revoke: Used to revoke user permissions.
+
+TCL
+
+TCL is used to run the changes made by the DML statement. TCL can be grouped into a logical transaction.
+
+Here are some tasks that come under TCL:
+
+Commit: It is used to save the transaction on the database.
+Rollback: It is used to restore the database to the original since the last Commit.
