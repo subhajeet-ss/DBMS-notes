@@ -1,0 +1,20 @@
+Here, we will discuss the basic design issues of an ER database schema in the following points:
+
+Use of Entity Set vs Attributes:
+
+The use of methods or attributes depends on the nature of the real-world business model and the context associated with the attributes. 
+The error occurs when the user uses the primary key of one setting as an attribute of another setting. 
+Instead, he needs to use the right relationship to do this. 
+Also, the main character is implicit in the relationship set, but we show it in the relationship sets.
+
+Use of Entity Set vs. Relationship Sets:
+
+It is difficult to determine whether the object can best be expressed through process or through social process. 
+To understand and determine proper usage, users need to be informed of the relationships that describe the activities that occur between sites.
+If there is a requirement of representing the object as a relationship set, then its better not to mix it with the entity set.
+
+Placing Relationship Attributes
+
+The cardinality ratios can become an affective measure in the placement of the relationship attributes. 
+Therefore, it is better to associate the attributes of one-to-one or one-to-many relationships with all participating entities rather than relationships. 
+The decision to assign the character as a relationship or entity attribute should be characteristic of the real world as a model.
